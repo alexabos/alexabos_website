@@ -14,6 +14,7 @@
     i18n: company_a_job
   icon: fa-plus-square
 
+  
 - name:
     detail: University of Barcelona
     i18n: company_b
@@ -94,6 +95,6 @@
         detail: September 2010 - June 2014
         i18n: company_b_date
       job:
-        detail: Bachelor thesis - 
+        detail: Bachelor thesis -
         i18n: company_b_job
       icon: fa-plus-square
