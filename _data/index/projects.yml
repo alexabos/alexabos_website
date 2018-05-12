@@ -15,8 +15,8 @@
   img: /static/assets/img/landing/python.png
   desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
-  i18n: google
+- name: Random6
+  i18n: random6
   url: https://google.com
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/random6.jpg
   desc: This is another project.
