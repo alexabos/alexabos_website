@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Oxford University
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: PhD internship at Paediatric Neuroimaging Department, John Radcliff Hospital, Oxford
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: January 2018 - June 2018
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Data science and neuroimaging projects
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: University of Barcelona
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Data scientist and PhD student at CJNeuroLab.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: October 2015 - Now
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Thesis: "MRI Connectomics in Movement Disorders"
     i18n: company_b_job
   icon: fa-plus-square
