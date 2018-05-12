@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: University of Oxford. John Radcliffe Hospital
+    detail: PhD internship at Paediatric Neuroimaging Department
     i18n: company_a
   desc:
-    detail: PhD internship at Paediatric Neuroimaging Department
+    detail: University of Oxford. John Radcliffe Hospital
     i18n: company_a_desc
   date:
     detail: January 2018 - June 2018
@@ -15,10 +15,10 @@
   icon: fa-plus-square
 
 - name:
-    detail: University of Barcelona. Medicine Faculty
+    detail: Data scientist and PhD student at CJNeuroLab
     i18n: company_b
   desc:
-    detail:  Data scientist and PhD student at CJNeuroLab.
+    detail: University of Barcelona. Medicine Faculty
     i18n: company_b_desc
   date:
     detail: October 2015 - Now
@@ -29,10 +29,10 @@
   icon: fa-plus-square
 
 - name:
-    detail: University of Barcelona. Mathematics Faculty
+    detail: Introduction to Data Science and Big Data
     i18n: company_b
   desc:
-    detail: Introduction to Data Science and Big Data.
+    detail: University of Barcelona. Mathematics Faculty
     i18n: company_b_desc
   date:
     detail: October 2015 - March 2016
@@ -43,10 +43,10 @@
   icon: fa-plus-square
 
 - name:
-    detail: University of Barcelona - Polytechnic University of Catalonia
+    detail: Biomedical Engineering - Specialization in Biomedical images, signals and biostatistics
     i18n: company_b
   desc:
-    detail: Biomedical Engineering - Specialization in Biomedical images, signals and biostatistics
+    detail: University of Barcelona - Polytechnic University of Catalonia
     i18n: company_b_desc
   date:
     detail: October 2014 - June 2015
@@ -57,10 +57,10 @@
   icon: fa-plus-square
 
 - name:
-    detail: Institute for Research in Biomedicine. Biostatistics and bioinformatics Unit
+    detail: Junior researcher - Maths4Life Summer program
     i18n: company_b
   desc:
-    detail: Junior researcher - Maths4Life Summer program
+    detail: Institute for Research in Biomedicine. Biostatistics and bioinformatics Unit
     i18n: company_b_desc
   date:
     detail: July 2014 - September 2014
@@ -71,10 +71,10 @@
   icon: fa-plus-square
 
 - name:
-    detail: Institute for Bioengineering of Catalonia. Robotics Unit
+    detail: Bachelor internship
     i18n: company_b
   desc:
-    detail: Bachelor internship
+    detail: Institute for Bioengineering of Catalonia. Robotics Unit
     i18n: company_b_desc
   date:
     detail: July 2014 - September 2014
@@ -85,10 +85,10 @@
   icon: fa-plus-square
 
 - name:
-    detail: University of Barcelona. Medicine & Physics Faculty
+    detail: Biomedical Engineering Bachelor
     i18n: company_b
   desc:
-    detail: Biomedical Engineering Bachelor
+    detail: University of Barcelona. Medicine & Physics Faculty
     i18n: company_b_desc
   date:
     detail: September 2010 - June 2014
