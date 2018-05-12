@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Oxford University
+    detail: University of Oxford
     i18n: company_a
   desc:
-    detail: PhD internship at Paediatric Neuroimaging Department, John Radcliff Hospital, Oxford
+    detail: PhD internship at Paediatric Neuroimaging Department.
     i18n: company_a_desc
   date:
     detail: January 2018 - June 2018
@@ -27,3 +27,73 @@
     detail: Thesis - MRI Connectomics in Movement Disorders
     i18n: company_b_job
   icon: fa-plus-square
+
+  - name:
+      detail: University of Barcelona
+      i18n: company_b
+    desc:
+      detail: Introduction to Data Science and Big Data.
+      i18n: company_b_desc
+    date:
+      detail: October 2015 - March 2016
+      i18n: company_b_date
+    job:
+      detail:
+      i18n: company_b_job
+    icon: fa-plus-square
+
+  - name:
+      detail: University of Barcelona
+      i18n: company_b
+    desc:
+      detail: Biomedical Engineering - Specialization in Biomedical images, signals and biostatistics
+      i18n: company_b_desc
+    date:
+      detail: October 2014 - June 2015
+      i18n: company_b_date
+    job:
+      detail: Master thesis - Structural Connectivity in Parkinson’s Disease-related apathy
+      i18n: company_b_job
+    icon: fa-plus-square
+
+    - name:
+        detail: Institute for Research in Biomedicine. Biostatistics and bioinformatics Unit
+        i18n: company_b
+      desc:
+        detail: Junior researcher - Maths4Life Summer program
+        i18n: company_b_desc
+      date:
+        detail: July 2014 - September 2014
+        i18n: company_b_date
+      job:
+        detail: Project - eQTLs’ analysis from lymphoblastoid cell lines.
+        i18n: company_b_job
+      icon: fa-plus-square
+
+    - name:
+        detail: Institute for Bioengineering of Catalonia. Robotics Unit
+        i18n: company_b
+      desc:
+        detail: Bachelor internship
+        i18n: company_b_desc
+      date:
+        detail: July 2014 - September 2014
+        i18n: company_b_date
+      job:
+        detail: Project - Modelling of glenohumeral joint with Opensim.
+        i18n: company_b_job
+      icon: fa-plus-square
+
+    - name: University of Barcelona
+        detail:
+        i18n: company_b
+      desc:
+        detail: Biomedical Engineering Bachelor
+        i18n: company_b_desc
+      date:
+        detail: September 2010 - June 2014
+        i18n: company_b_date
+      job:
+        detail: Bachelor thesis - 
+        i18n: company_b_job
+      icon: fa-plus-square
