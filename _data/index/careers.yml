@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: University of Oxford
+    detail: University of Oxford. John Radcliffe Hospital
     i18n: company_a
   desc:
-    detail: PhD internship at Paediatric Neuroimaging Department.
+    detail: PhD internship at Paediatric Neuroimaging Department
     i18n: company_a_desc
   date:
     detail: January 2018 - June 2018
@@ -15,7 +15,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: University of Barcelona
+    detail: University of Barcelona. Medicine Faculty
     i18n: company_b
   desc:
     detail:  Data scientist and PhD student at CJNeuroLab.
@@ -29,7 +29,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: University of Barcelona
+    detail: University of Barcelona. Mathematics Faculty
     i18n: company_b
   desc:
     detail: Introduction to Data Science and Big Data.
@@ -43,7 +43,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: University of Barcelona
+    detail: University of Barcelona - Polytechnic University of Catalonia
     i18n: company_b
   desc:
     detail: Biomedical Engineering - Specialization in Biomedical images, signals and biostatistics
@@ -84,8 +84,8 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-- name: 
-    detail: University of Barcelona
+- name:
+    detail: University of Barcelona. Medicine & Physics Faculty
     i18n: company_b
   desc:
     detail: Biomedical Engineering Bachelor
