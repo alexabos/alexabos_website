@@ -14,12 +14,11 @@
     i18n: company_a_job
   icon: fa-plus-square
 
-  
 - name:
     detail: University of Barcelona
     i18n: company_b
   desc:
-    detail: Data scientist and PhD student at CJNeuroLab.
+    detail:  Data scientist and PhD student at CJNeuroLab.
     i18n: company_b_desc
   date:
     detail: October 2015 - Now
