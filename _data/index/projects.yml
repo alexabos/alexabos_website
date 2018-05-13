@@ -12,7 +12,7 @@
   url: https://google.com
   repo: Random-6
   img: /static/assets/img/landing/random6b.png
-  desc: Random6 website. Summary of our data science projects. Get to know us!
+  desc: Summary of our data science projects. Get to know us!
 
 #- name: Python
 #  i18n: cpython
