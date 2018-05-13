@@ -20,7 +20,7 @@
 
 - id: projects
   i18n: nav.projects
-  name: Collaborations
+  name: Projects
   tpl: projects.html
   css: project
 
