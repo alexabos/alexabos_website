@@ -6,8 +6,8 @@
 - name: Papers
   href: /papers/
 
-- name: Kaggle
-  href: /linux/
+#- name: Kaggle
+#  href: /linux/
 
 #- name: HTML
 #  href: /html/
