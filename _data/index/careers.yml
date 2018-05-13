@@ -71,20 +71,6 @@
   icon: fa-plus-square
 
 - name:
-    detail: Bachelor internship
-    i18n: company_b
-  desc:
-    detail: Institute for Bioengineering of Catalonia. Robotics Unit
-    i18n: company_b_desc
-  date:
-    detail: July 2014 - September 2014
-    i18n: company_b_date
-  job:
-    detail: Project - Modelling of glenohumeral joint with Opensim.
-    i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
     detail: Biomedical Engineering Bachelor
     i18n: company_b
   desc:
