@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Programming (Python & R & Matlab), OOP Java, Web programming (HTML & CSS), Github, ML & Big Data, SQL, Linux
-percentage: 90, 70, 70, 80, 80, 80, 90
+aspects: Python & R & Matlab, HTML & CSS, Github, ML, DNN, SQL, Linux
+percentage: 90, 70, 80, 80, 70, 80, 90

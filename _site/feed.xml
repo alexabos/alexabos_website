@@ -5,8 +5,8 @@
     <description>Alexandra Abos personal website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 May 2018 16:35:08 +0100</pubDate>
-    <lastBuildDate>Sun, 13 May 2018 16:35:08 +0100</lastBuildDate>
+    <pubDate>Sat, 08 Sep 2018 12:02:08 +0200</pubDate>
+    <lastBuildDate>Sat, 08 Sep 2018 12:02:08 +0200</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -39,7 +39,7 @@ say_hello()   // &quot;hello world!&quot;
 
 &lt;p&gt;Side note comment: applied a bug fix similar to &lt;a href=&quot;https://github.com/Atlas7/atlas7.github.io/commit/6659f4a47f6ec66987adb0f683a9c6f3842252ae#diff-818954a41dbfb01af70050a459c603b9&quot;&gt;this commit&lt;/a&gt; to ensure code snippet does not collapse unexpectly upon clicking on it. This issue is tracked &lt;a href=&quot;https://github.com/jarrekk/Jalpc/issues/97&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 21 Dec 2017 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/html/2017/12/21/test-code-snippets.html</link>
         <guid isPermaLink="true">http://localhost:4000/html/2017/12/21/test-code-snippets.html</guid>
         
@@ -98,7 +98,7 @@ say_hello()   // &quot;hello world!&quot;
 
 &lt;p&gt;If you like this repository, I appreciate you star this repository. Please don’t hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊&lt;/p&gt;
 </description>
-        <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 31 Jan 2017 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</link>
         <guid isPermaLink="true">http://localhost:4000/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</guid>
         

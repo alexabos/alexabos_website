@@ -1,20 +1,6 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: PhD internship at Paediatric Neuroimaging Department
-    i18n: company_a
-  desc:
-    detail: University of Oxford. John Radcliffe Hospital
-    i18n: company_a_desc
-  date:
-    detail: January 2018 - June 2018
-    i18n: company_a_date
-  job:
-    detail: Data science and neuroimaging projects
-    i18n: company_a_job
-  icon: fa-plus-square
-
-- name:
     detail: Data scientist and PhD student at CJNeuroLab
     i18n: company_b
   desc:
@@ -29,6 +15,20 @@
   icon: fa-plus-square
 
 - name:
+    detail: PhD internship at Paediatric Neuroimaging Department
+    i18n: company_a
+  desc:
+    detail: University of Oxford. John Radcliffe Hospital
+    i18n: company_a_desc
+  date:
+    detail: January 2018 - June 2018
+    i18n: company_a_date
+  job:
+    detail: Detection of noxious stimuli in newborns using MRI
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: Introduction to Data Science and Big Data
     i18n: company_b
   desc:
@@ -38,12 +38,12 @@
     detail: October 2015 - March 2016
     i18n: company_b_date
   job:
-    detail:
+    detail: Open DGC
     i18n: company_b_job
   icon: fa-plus-square
 
 - name:
-    detail: Biomedical Engineering - Specialization in Biomedical images, signals and biostatistics
+    detail: Biomedical Engineering - Specialization in image and signals processing and biostatistics
     i18n: company_b
   desc:
     detail: University of Barcelona - Polytechnic University of Catalonia
