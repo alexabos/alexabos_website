@@ -29,11 +29,12 @@
   name: Projects
   tpl: blog.html
   page: blog/
-  css: testimonials navy-section
+  css:
+  #css: testimonials navy-section
 
-
-- id: links
-  i18n: nav.link
-  name: Links
-  tpl: links.html
-  css: contact
+- id: papers
+  i18n: nav.papers
+  name: Papers
+  tpl: papers.html
+  page: papers/
+  #css:

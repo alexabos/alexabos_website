@@ -7,7 +7,7 @@ keywords: Alexandra Abos, data science, Big data, coding, github,gh-pages
 #baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://alexabos.github.io/alexabos_website/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /alexabos_website/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-java
-  desc: Biomedical Engineer & Data Scientist | PhD Student at CJNeuroLab | Philosophy and Art Enthusiast  # Describe yourself.
+  desc: Biomedical Engineer & Data Scientist | PhD Candidate at CJNeuroLab | Philosophy and Art Enthusiast  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
