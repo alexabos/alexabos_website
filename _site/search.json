@@ -3,8 +3,16 @@
     "data" : [
      
     {
-        "title" : "Tips to make the most of a Datathon - 2017-12-21",
-        "url" : "/data%20science/2017/12/21/test-code-snippets.html"
+        "title" : "Must-known data science concepts: Test, train, validation sets - 2019-03-26",
+        "url" : "/data%20science/2019/03/26/train_test_validation.html"
+    }
+    
+    ,
+    
+    
+    {
+        "title" : "Tips to make the most of a Datathon - 2018-10-23",
+        "url" : "/html/2018/10/23/3-Tips-to-make-the-most-of-a-Datathon.html"
     }
     
     
