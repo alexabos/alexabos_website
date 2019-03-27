@@ -9,10 +9,10 @@
 
 - name: Random6
   i18n: random6
-  url: https://google.com
+  url: https://github.com/Random-6
   repo: Random-6
   img: /static/assets/img/landing/random6b.png
-  desc: Summary of our data science projects. Get to know us!
+  desc: Github repository with our data science projects. Get to know us!
 
 #- name: Python
 #  i18n: cpython

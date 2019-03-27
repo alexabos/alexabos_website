@@ -1,16 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Data scientist and PhD student at CJNeuroLab
+    detail: Data scientist and Biomedical Engineer
     i18n: company_b
   desc:
     detail: University of Barcelona. Medicine Faculty
     i18n: company_b_desc
   date:
-    detail: October 2015 - Now
+    detail: January 2019 - Now
     i18n: company_b_date
   job:
-    detail: Thesis - MRI Connectomics in Movement Disorders
+    detail: Technical support in signal and imaging processing, data analytics and statistics
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Early stage researcher at CJNeuroLab
+    i18n: company_b
+  desc:
+    detail: University of Barcelona. Medicine Faculty
+    i18n: company_b_desc
+  date:
+    detail: October 2015 - 2018
+    i18n: company_b_date
+  job:
+    detail: PhD Thesis - MRI Connectomics in Movement Disorders
     i18n: company_b_job
   icon: fa-plus-square
 
