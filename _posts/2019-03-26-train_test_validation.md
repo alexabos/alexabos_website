@@ -16,7 +16,7 @@ A common approach to avoid overfitting and make the model more generalizable to 
 When the training dataset is not large enough so one cannot afford to hold out part of the data only for validation/test purposes, cross-validation (CV) techniques are frequently applied (Ripley B 07 Pattern recognition and neural networks). CV consists on resampling the dataset to simulate the train/validation/test partition. In a simple case, in k-fold cross-validation, the available dataset is divided into k equal folds, and at each iteration, a different fold is used as test while the training of the models is performed on the remaining k-1 folds. Thus, the average of performance on all k fold is the overall performance of the model. A particular case of k-fold is leave-one-out technique, where k is the number of observations, i.e. – in each iteration, the test set is only one observation whereas the training set has N-1 samples. In complex situations (e.g. hyperparameters need to be tuned), nested-CV is employed (Figure X), which requires an outer k-fold CV loop to split the data intro training and test sets, and an inner loop used to select the model on the training fold, equivalent to the train/validation partition. In conclusion, cross-validation is a good strategy to control overfitting when the size of the dataset is an issue (e.g.- biomedical research).
 </p>
 
-<p style="text-align: justify;">
+<p align="center">
 <img src="/alexabos_website/static/assets/img/blog/train_test_validation/train_test_validation.png" width="50%" height="50%">
 </p>
 <p style="text-align: justify;">
