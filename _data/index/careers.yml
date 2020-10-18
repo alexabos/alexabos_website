@@ -1,30 +1,31 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Data scientist and Biomedical Engineer
+    detail: Statistical Forecaster
     i18n: company_b
   desc:
-    detail: University of Barcelona. Medicine Faculty
+    detail: Sanofi. Biopharmaceutical company
     i18n: company_b_desc
   date:
-    detail: January 2019 - Now
+    detail: July 2019 - Now
     i18n: company_b_date
   job:
-    detail: Technical support in signal and imaging processing, data analytics and statistics
+    detail: Development of statistical and machine learning models to improve forecasting in Supply Chain
     i18n: company_b_job
   icon: fa-plus-square
 
+
 - name:
-    detail: Early stage researcher at CJNeuroLab
+    detail: Early stage researcher
     i18n: company_b
   desc:
-    detail: University of Barcelona. Medicine Faculty
+    detail: University of Barcelona. Medicine Faculty.
     i18n: company_b_desc
   date:
-    detail: October 2015 - 2018
+    detail: October 2015 - July 2019
     i18n: company_b_date
   job:
-    detail: PhD Thesis - MRI Connectomics in Movement Disorders
+    detail: PhD Thesis - MRI Connectomics in Movement Disorders & Technical support in signal and imaging processing, data analytics and statistics
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -52,48 +53,21 @@
     detail: October 2015 - March 2016
     i18n: company_b_date
   job:
-    detail: Open DGC
+    detail:
     i18n: company_b_job
   icon: fa-plus-square
 
+
 - name:
-    detail: Biomedical Engineering - Specialization in image and signals processing and biostatistics
+    detail: Biomedical Engineering Bachelor & Master degree
     i18n: company_b
   desc:
     detail: University of Barcelona - Polytechnic University of Catalonia
     i18n: company_b_desc
   date:
-    detail: October 2014 - June 2015
+    detail: September 2010 - June 2015
     i18n: company_b_date
   job:
-    detail: Master thesis - Structural Connectivity in Parkinson’s Disease-related apathy
-    i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
-    detail: Junior researcher - Maths4Life Summer program
-    i18n: company_b
-  desc:
-    detail: Institute for Research in Biomedicine. Biostatistics and bioinformatics Unit
-    i18n: company_b_desc
-  date:
-    detail: July 2014 - September 2014
-    i18n: company_b_date
-  job:
-    detail: Project - eQTLs’ analysis from lymphoblastoid cell lines.
-    i18n: company_b_job
-  icon: fa-plus-square
-
-- name:
-    detail: Biomedical Engineering Bachelor
-    i18n: company_b
-  desc:
-    detail: University of Barcelona. Medicine & Physics Faculty
-    i18n: company_b_desc
-  date:
-    detail: September 2010 - June 2014
-    i18n: company_b_date
-  job:
-    detail: Bachelor thesis -
+    detail: Specialization in image and signals processing and biostatistics
     i18n: company_b_job
   icon: fa-plus-square
