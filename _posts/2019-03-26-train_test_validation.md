@@ -7,7 +7,6 @@ keywords: "datathon,data science,personal experience,challenge"
 categories: [data science]
 tags: [cross-validation,data science]
 icon: icon-html
-comments: true
 
 ---
 <p style="text-align: justify;">
