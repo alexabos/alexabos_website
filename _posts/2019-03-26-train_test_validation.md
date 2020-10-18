@@ -27,5 +27,3 @@ When the training dataset is not large enough so one cannot afford to hold out p
 <p style="text-align: justify;">
 Additionally, overfitting can also be avoid by using regularization (Goodfellow I, Deep Learning, 2016). The simplest and most common regularization method adds penalty as the complexity of the model increases. The regularization method penalizes higher terms of the equation; thus their importance decreases and the model leads to a less complex equation.
 </p>
-
-{% include comments.html %}
