@@ -31,8 +31,10 @@ author:  # change following line to your infomation.
   desc: Data Scientist & Biomedical Engineer | PhD | Philosophy and Art Enthusiast  # Describe yourself.
 
 # comment
-#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-#  name: jalpc
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: alexabos
+
+
 
 # analytics
 ## google analytics

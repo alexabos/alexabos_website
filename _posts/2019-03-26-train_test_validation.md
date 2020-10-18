@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Must-know data science concepts: Test, train, validation sets"
-date:   2019-03-26
+date:   2020-03-26
 desc: "Must-know data science concepts: Test, train, validation sets"
 keywords: "datathon,data science,personal experience,challenge"
 categories: [data science]
 tags: [cross-validation,data science]
 icon: icon-html
+comments: true
+
 ---
 <p style="text-align: justify;">
 The evaluation of models is a problematic issue in machine learning. Given a supervised algorithm, a model might fit perfectly a particular training data, but then fail completely when applied to additional sets: This phenomenon is defined as overfitting (Burnham K Anderson D, Model Selection and Multimodel Inference). For example, if we use complicated algorithms with lots of elements, the model will be very specific for the features of the training data while it will likely perform worse in unseen data (Hawkins adm 04).
@@ -25,3 +27,5 @@ When the training dataset is not large enough so one cannot afford to hold out p
 <p style="text-align: justify;">
 Additionally, overfitting can also be avoid by using regularization (Goodfellow I, Deep Learning, 2016). The simplest and most common regularization method adds penalty as the complexity of the model increases. The regularization method penalizes higher terms of the equation; thus their importance decreases and the model leads to a less complex equation.
 </p>
+
+{% include comments.html %}
