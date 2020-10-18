@@ -5,8 +5,8 @@
     <description>Alexandra Abos personal website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Oct 2020 21:21:46 +0200</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2020 21:21:46 +0200</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2020 21:37:27 +0200</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2020 21:37:27 +0200</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -30,8 +30,17 @@ Additionally, overfitting can also be avoid by using regularization (Goodfellow 
 &lt;/p&gt;
 
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;script&gt;
 
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
 s.src = 'https://https-alexabos-github-io-alexabos-website.disqus.com/embed.js';
@@ -42,10 +51,6 @@ s.setAttribute('data-timestamp', +new Date());
 
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-
-&lt;/script&gt;
 </description>
         <pubDate>Thu, 26 Mar 2020 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/data%20science/2020/03/26/train_test_validation.html</link>
