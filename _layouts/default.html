@@ -1,5 +1,6 @@
 ---
 layout: compress
+comments: true
 ---
 
 <!DOCTYPE html>
@@ -18,6 +19,7 @@ layout: compress
     {% endif %}
 
     {{ content }}
+    {% include comments.html %}
 
     {% if page.title != 'index' %}
         {% include foot.html %}
