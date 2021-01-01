@@ -14,9 +14,8 @@
   img: /static/assets/img/landing/random6b.png
   desc: Github repository with our data science projects. Get to know us!
 
-#- name: Python
-#  i18n: cpython
-#  gh_user: python
-#  repo: cpython
-#  img: /static/assets/img/landing/python.png
-#  desc: This project is other's project. I use another request to get repo's information.
+- name: Alex's bookshelf
+  i18n: alexbookshelf
+  url: https://abosbookshelf.wordpress.com/
+  img: /static/assets/img/landing/books.jpg
+  desc: Alex's bookshelf blog. Book reviews and other literary-related stuff!
