@@ -1,5 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: Data Scientist
+    i18n: company_b
+  desc:
+    detail: Sanofi. Biopharmaceutical company
+    i18n: company_b_desc
+  date:
+    detail: May 2022 - Now
+    i18n: company_b_date
+  job:
+    detail: Contributing in multiple projects including forecasting models to optimize on-line media campaigns, multichannel optimization with genetic algorithm and pharmacokinetics curves modeling.
+    i18n: company_b_job
+  icon: fa-plus-square
+
 - name:
     detail: Statistical Forecaster
     i18n: company_b
@@ -7,7 +22,7 @@
     detail: Sanofi. Biopharmaceutical company
     i18n: company_b_desc
   date:
-    detail: July 2019 - Now
+    detail: July 2019 - May 2022
     i18n: company_b_date
   job:
     detail: Development of statistical and machine learning models to improve forecasting in Supply Chain
