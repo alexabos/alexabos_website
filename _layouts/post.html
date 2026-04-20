@@ -5,10 +5,10 @@ comments: true
 
 <div class="wrapper wrapper-content  animated fadeInRight article">
     <div class="row">
-        <div class="col-lg-10 col-lg-offset-1">
+        <div class="col-lg-10 offset-lg-1 col-lg-offset-1">
             <div class="ibox">
                 <div class="ibox-content">
-                    <div class="pull-right">
+                    <div class="float-end pull-right">
                     	{% for category in page.categories %}
                         	<a class="btn btn-white btn-xs" href="{{ category | downcase | prepend: '/' | prepend: site.baseurl }}">{{ category }}</a>
                         {% endfor %}

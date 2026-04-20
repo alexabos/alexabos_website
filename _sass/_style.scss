@@ -47,7 +47,8 @@ h3, h4, h5 {
     font-weight: 600;
     padding: 14px 20px 14px 25px;
   }
-  &.navbar-right > li > a {
+  &.navbar-right > li > a,
+  &.ms-auto > li > a {
     color: #999c9e;
   }
   > li.active > a {
@@ -238,7 +239,8 @@ body.canvas-menu .nav-header {
       }
     }
   }
-  .navbar-right {
+  .navbar-right,
+  .ms-auto {
     margin-right: 10px;
   }
 }
@@ -2511,11 +2513,13 @@ body {
   .carousel-caption {
     z-index: 10;
   }
-  .carousel .item {
+  .carousel .item,
+  .carousel .carousel-item {
     height: 470px;
     background-color: #777;
   }
-  .carousel-inner > .item > img {
+  .carousel-inner > .item > img,
+  .carousel-inner > .carousel-item > img {
     position: absolute;
     top: 0;
     left: 0;
@@ -2524,7 +2528,8 @@ body {
   }
   .carousel-fade {
     .carousel-inner {
-      .item {
+      .item,
+      .carousel-item {
         opacity: 0;
         -webkit-transition-property: opacity;
         transition-property: opacity;
@@ -2537,6 +2542,10 @@ body {
           z-index: 1;
         }
       }
+      .carousel-item-next.carousel-item-start,
+      .carousel-item-prev.carousel-item-end {
+        opacity: 1;
+      }
       .next.left, .prev.right {
         opacity: 1;
       }
@@ -2546,7 +2555,7 @@ body {
     }
   }
   .carousel-control {
-    &.left, &.right {
+    &.left, &.right, &.carousel-control-prev, &.carousel-control-next {
       background: 0 0;
     }
     width: 6%;
