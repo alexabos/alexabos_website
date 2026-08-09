@@ -1,0 +1,11 @@
+# teaching section data
+role: Lecturer
+program: Master in Data Analytics for Business
+program_url: https://www.bsm.upf.edu/en/master-data-analytics-business
+institution: UPF Barcelona School of Management
+courses:
+  - Python
+  - Exploratory Data Analysis
+  - Data Visualization
+  - Health Data Analytics
+  - Machine Learning

@@ -1,0 +1,35 @@
+<div class="container" id="i18_work">
+    <div class="row m-b-lg">
+        <div class="col-lg-12 text-center">
+            <div class="navy-line"></div>
+            <h1><span data-i18n="work.selected_work">Selected Work</span></h1>
+        </div>
+    </div>
+    {% for project in site.data.index.work %}
+    <div class="row m-b-lg wow fadeInUp">
+        <div class="col-lg-8 col-lg-offset-2">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <small class="text-muted">{{ project.number }} — {{ project.tagline }}</small>
+                    <h3 class="m-t-none"><span class="navy">{{ project.name }}</span></h3>
+                    <p style="text-align: justify;">{{ project.desc }}</p>
+                    <p><strong>Scope:</strong> {{ project.scope }}</p>
+                    <p><strong>Role:</strong> {{ project.role }}</p>
+                    <p>
+                        {% for tag in project.focus %}
+                        <span class="label label-default" style="margin-right: 4px; margin-bottom: 4px; display: inline-block;">{{ tag }}</span>
+                        {% endfor %}
+                    </p>
+                    {% if project.links %}
+                    <p class="m-t-sm">
+                        {% for link in project.links %}
+                        <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }} &rarr;</a><br>
+                        {% endfor %}
+                    </p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>

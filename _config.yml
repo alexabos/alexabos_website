@@ -21,14 +21,7 @@ author:  # change following line to your infomation.
   twitter_username:  # Leave blank if you don't have now
   email: alexandraabos@gmail.com  # Leave blank if you don't have now
   cv:   https://resume.io/r/QDEaRo3Mn # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  skill_icon1:
-    - name: icon-python
-    - name: icon-mysql
-  skill_icon2:
-    - name: fa-linux
-    - name: icon-java
-  desc: Data Scientist & Biomedical Engineer | PhD | Philosophy and Art Enthusiast  # Describe yourself.
+  tagline: Lead Data Scientist | AI & Data Science | Life Sciences  # short line under the name on the About section
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -53,7 +46,7 @@ disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your c
 #donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
-index_carousel: on  # index page carousel switch
+index_carousel: off  # index page carousel switch
 blog_carousel: on  # blog page carousel switch
 
 # scss

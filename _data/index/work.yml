@@ -1,0 +1,53 @@
+# selected work section data
+# public-safe project summaries: no confidential metrics, architecture or business outcomes
+
+- number: "01"
+  name: Omnichannel Call Plan Optimization
+  tagline: Global AI · Commercial Analytics · Optimization
+  desc: Designed and led the development of an AI-driven omnichannel call plan optimization system to support commercial engagement decisions in Life Sciences. The solution combines data-driven modelling and optimization to help determine how customer interactions can be prioritized across channels and products. The system has been deployed across 20+ countries and multiple products as part of a global initiative.
+  scope: 20+ countries · Multiple products · Global commercial initiative
+  role: Lead Data Scientist · Technical Lead
+  focus:
+    - AI
+    - Machine Learning
+    - Optimization
+    - Commercial Analytics
+    - Omnichannel Engagement
+    - Technical Leadership
+  links:
+
+- number: "02"
+  name: Data Science Platform & Pipeline Standardization
+  tagline: Data Science Engineering · MLOps · Scalability
+  desc: Led the standardization and evolution of Data Science pipelines to improve usability, consistency and scalability across AI and Machine Learning projects. The initiative focuses on establishing reusable methodologies, standards and best practices, while reducing technical friction and enabling more self-service capabilities for Data Scientists. The work is carried out in collaboration with other Data Science Leads, Data Engineering and MLOps teams.
+  scope: Global Data Science initiative · Multiple teams
+  role: Lead Data Scientist · Technical Lead
+  focus:
+    - Data Science Engineering
+    - MLOps
+    - Scalability
+    - Standardization
+    - Self-Service
+    - Technical Leadership
+  links:
+
+- number: "03"
+  name: Pharmacokinetic Modelling
+  tagline: Machine Learning · Drug Discovery · Biomedical AI
+  desc: Developed statistical and machine learning approaches to predict pharmacokinetic curves, supporting pharmacokinetic modelling and drug development research. The work combines machine learning with domain-specific modelling to provide data-driven approaches for characterizing pharmacokinetic behaviour. The resulting approach has been applied across multiple studies and has contributed to scientific publications.
+  scope: Drug discovery · Pharmacokinetic modelling · Multiple studies
+  role: Data Scientist · Machine Learning Researcher
+  focus:
+    - Machine Learning
+    - Statistical Modelling
+    - Pharmacokinetics
+    - Drug Discovery
+    - Biomedical AI
+    - Scientific Research
+  links:
+    - label: "Application of machine learning in combination with mechanistic modeling to predict plasma exposure of small molecules"
+      url: https://www.frontiersin.org/journals/systems-biology/articles/10.3389/fsysb.2023.1180948/full
+    - label: "Application of Machine Learning and Mechanistic Modeling to Predict Intravenous Pharmacokinetic Profiles in Humans"
+      url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11998014/
+    - label: "Machine learning framework to predict pharmacokinetic profile of small molecule drugs based on chemical structure"
+      url: https://ascpt.onlinelibrary.wiley.com/doi/full/10.1111/cts.13824
