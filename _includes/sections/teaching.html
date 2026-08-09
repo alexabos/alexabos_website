@@ -9,6 +9,9 @@
         <div class="col-lg-8 col-lg-offset-2 text-center wow zoomIn">
             <h4><span class="navy">{{ site.data.index.teaching.role }}</span> — {% if site.data.index.teaching.program_url %}<a href="{{ site.data.index.teaching.program_url }}" target="_blank" rel="noopener">{{ site.data.index.teaching.program }}</a>{% else %}{{ site.data.index.teaching.program }}{% endif %}</h4>
             <p>{{ site.data.index.teaching.institution }}</p>
+            {% if site.data.index.teaching.desc %}
+            <p class="m-t-sm">{{ site.data.index.teaching.desc }}</p>
+            {% endif %}
             <p class="m-t-sm">
                 {% for course in site.data.index.teaching.courses %}
                 <span class="label label-default" style="margin-right: 4px; margin-bottom: 4px; display: inline-block;">{{ course }}</span>

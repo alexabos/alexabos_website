@@ -1,8 +1,9 @@
 # teaching section data
-role: Lecturer
+role: Program Coordinator & Lecturer
 program: Master in Data Analytics for Business
 program_url: https://www.bsm.upf.edu/en/master-data-analytics-business
 institution: UPF Barcelona School of Management
+desc: I coordinate the programme and teach the following courses.
 courses:
   - Python
   - Exploratory Data Analysis

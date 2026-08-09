@@ -17,11 +17,14 @@
                 {% if site.author.github_username %}
                 <li><a href="https://github.com/{{ site.author.github_username }}" target="_blank" rel="noopener"><i class="fa fa-github"></i></a></li>
                 {% endif %}
+                {% if site.author.scholar %}
+                <li><a href="{{ site.author.scholar }}" target="_blank" rel="noopener" title="Google Scholar"><i class="fa fa-graduation-cap"></i></a></li>
+                {% endif %}
                 {% if site.author.email %}
                 <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
                 {% endif %}
                 {% if site.author.cv %}
-                <li><a href="{{ site.author.cv }}" target="_blank" rel="noopener"><i class="fa fa-file-pdf-o"></i></a></li>
+                <li><a href="{{ site.author.cv | prepend: site.baseurl }}" target="_blank" rel="noopener" title="Download CV"><i class="fa fa-file-pdf-o"></i></a></li>
                 {% endif %}
             </ul>
         </div>

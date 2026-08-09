@@ -2,31 +2,31 @@
 # public-safe project summaries: no confidential metrics, architecture or business outcomes
 
 - number: "01"
-  name: Omnichannel Call Plan Optimization
-  tagline: Global AI · Commercial Analytics · Optimization
-  desc: Designed and led the development of an AI-driven omnichannel call plan optimization system to support commercial engagement decisions in Life Sciences. The solution combines data-driven modelling and optimization to help determine how customer interactions can be prioritized across channels and products. The system has been deployed across 20+ countries and multiple products as part of a global initiative.
+  name: Omnichannel Call Plan Optimization (OCCP)
+  tagline: Global AI · Commercial Analytics · Optimisation
+  desc: Designed and led the development of an AI-driven omnichannel call plan optimisation system to support commercial engagement decisions in Life Sciences. The solution combines data-driven modelling and optimisation to help determine how customer interactions can be prioritised across channels and products. The system has been deployed across 20+ countries and multiple products as part of a global initiative.
   scope: 20+ countries · Multiple products · Global commercial initiative
   role: Lead Data Scientist · Technical Lead
   focus:
     - AI
     - Machine Learning
-    - Optimization
+    - Optimisation
     - Commercial Analytics
     - Omnichannel Engagement
     - Technical Leadership
   links:
 
 - number: "02"
-  name: Data Science Platform & Pipeline Standardization
+  name: Data Science Platform & Pipeline Standardisation
   tagline: Data Science Engineering · MLOps · Scalability
-  desc: Led the standardization and evolution of Data Science pipelines to improve usability, consistency and scalability across AI and Machine Learning projects. The initiative focuses on establishing reusable methodologies, standards and best practices, while reducing technical friction and enabling more self-service capabilities for Data Scientists. The work is carried out in collaboration with other Data Science Leads, Data Engineering and MLOps teams.
+  desc: Led the standardisation and evolution of Data Science pipelines to improve usability, consistency and scalability across AI and Machine Learning projects. The initiative focuses on establishing reusable methodologies, standards and best practices, while reducing technical friction and enabling more self-service capabilities for Data Scientists. The work is carried out in collaboration with other Data Science Leads, Data Engineering and MLOps teams.
   scope: Global Data Science initiative · Multiple teams
   role: Lead Data Scientist · Technical Lead
   focus:
     - Data Science Engineering
     - MLOps
     - Scalability
-    - Standardization
+    - Standardisation
     - Self-Service
     - Technical Leadership
   links:
@@ -34,9 +34,9 @@
 - number: "03"
   name: Pharmacokinetic Modelling
   tagline: Machine Learning · Drug Discovery · Biomedical AI
-  desc: Developed statistical and machine learning approaches to predict pharmacokinetic curves, supporting pharmacokinetic modelling and drug development research. The work combines machine learning with domain-specific modelling to provide data-driven approaches for characterizing pharmacokinetic behaviour. The resulting approach has been applied across multiple studies and has contributed to scientific publications.
+  desc: Developed statistical and machine learning approaches to predict pharmacokinetic curves, supporting pharmacokinetic modelling and drug development research. The work combines machine learning with domain-specific modelling to provide data-driven approaches for characterising pharmacokinetic behaviour. The resulting approach has been applied across multiple studies and has contributed to scientific publications.
   scope: Drug discovery · Pharmacokinetic modelling · Multiple studies
-  role: Data Scientist · Machine Learning Researcher
+  role: Data Scientist · ML Researcher
   focus:
     - Machine Learning
     - Statistical Modelling

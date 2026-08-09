@@ -21,7 +21,8 @@
                         {% endfor %}
                     </p>
                     {% if project.links %}
-                    <p class="m-t-sm">
+                    <p class="m-t-sm m-b-none"><strong>Selected publications:</strong></p>
+                    <p>
                         {% for link in project.links %}
                         <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }} &rarr;</a><br>
                         {% endfor %}
